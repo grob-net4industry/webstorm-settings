@@ -1,18 +1,10 @@
 <application>
   <component name="FileTypeManager" version="16">
-    <ignoreFiles list="*.hprof;*.idea;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping pattern=".eslintignore" type="JSHint file" />
-      <mapping pattern=".jsbeautifyrc" type="JSON" />
       <mapping pattern=".esformatter" type="JSON" />
-      <mapping pattern="dest" type="PLAIN_TEXT" />
-      <mapping pattern="exercise" type="PLAIN_TEXT" />
-      <mapping pattern="afds" type="PLAIN_TEXT" />
-      <mapping pattern=".pgbomit" type="PLAIN_TEXT" />
-      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
-      <mapping ext="properties" type="PLAIN_TEXT" />
-      <mapping ext="project" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".eslintignore" type="PLAIN_TEXT" />
+      <mapping ext="project" type="JSON" />
+      <mapping ext="map" type="JavaScript" />
+      <mapping pattern="jshintrc" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

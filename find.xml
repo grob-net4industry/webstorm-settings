@@ -1,20 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project w/o ext libs" />
-    <option name="defaultScopeName" value="Project w/o ext libs" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project w/o ext libs" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.mxml</mask>
-      <mask>*.css</mask>
-    </recentFileMasks>
+    <option name="customScope" value="File 'C:\Kneist\g4line\www\settings\settings-connections.controller.js'" />
+    <option name="defaultScopeName" value="File 'C:\Kneist\g4line\www\settings\settings-connections.controller.js'" />
+    <option name="SEARCH_SCOPE" value="File 'C:\Kneist\g4line\www\settings\settings-connections.controller.js'" />
   </component>
 </application>

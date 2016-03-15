@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9aafed2c-f42a-443e-ac08-a1dac5742040" name="AngularPhonecatLocalhost" url="http://localhost:8000">
+        <fileTransfer accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,113 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="log.debug.categories" value="" />
+    <property name="evlsprt3.9.0" value="15" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="2" />
+    <property name="WebStorm.multiCaretsEnabled" value="true" />
+    <property name="WebStorm.inlineDebuggerEnabled" value="true" />
+    <property name="WebStorm.lineNumbersEnabled" value="true" />
+    <property name="installation.uid" value="4c264455-3905-418f-8843-988918754c36" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Source/webstorm-settings/settings.jar&#10;/home/uloco/Dropbox/etc/webstorm/settings.jar&#10;/home/uloco/WebstormProjects/g4line/www/bower_components/font-awesome&#10;/home/uloco/WebstormProjects/g4login&#10;/home/uloco/Source/quantag-qr-code-sample&#10;/home/uloco/Dropbox/etc/spelling&#10;/home/uloco/Source/webstorm-bluloco-scheme/Bluloco.jar&#10;/home/uloco/Downloads/intellij-colors-solarized-master/settings.jar&#10;/home/uloco/WebstormProjects/g4login/app1&#10;/home/uloco/WebstormProjects/g4line/www/bower_components&#10;/home/uloco/WebstormProjects/g4line/node_modules/grunt&#10;/home/uloco/Source&#10;/home/uloco/Downloads/Obsidian.jar&#10;/home/uloco/tmp&#10;/home/uloco&#10;/home/uloco/WebstormProjects/g4line/.jscsrc&#10;/home/uloco/WebstormProjects/g4line&#10;/home/uloco/WebstormProjects/ionic-starter-tabs&#10;/home/uloco/WebstormProjects/ionic-test-tabs/www/lib&#10;/home/uloco/WebstormProjects/ionic-test-tabs/node_modules&#10;/home/uloco/WebstormProjects/angular-phonecat&#10;/home/uloco/WebstormProjects/g4line/app/components/assets/kendo.ui.core.js&#10;/home/uloco/WebstormProjects/g4line-tb&#10;/media/uloco&#10;/home/uloco/.nvm/versions/node/v0.12.5/bin&#10;/home/uloco/WebstormProjects/g4line/node_modules/jasmine-core&#10;/home/uloco/WebstormProjects/g-line-frontend_BUILD/bower_components&#10;/home/uloco/WebstormProjects/g-line-frontend_BUILD&#10;/home/uloco/WebstormProjects/g-line-frontend/app/bower_components&#10;/home/uloco/WebstormProjects/g-line-frontend" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="DARTIUM_CHECKED_MODE_INITIALLY_ENABLED" value="true" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.41196778" />
+    <property name="HbAutoCollapseBlocks" value="disabled" />
+    <property name="PLUGIN_FILTER" value="theme&#10;plan&#10;color&#10;ide&#10;beauti" />
+    <property name="HbDisableAutoGenerateCloseTag" value="enabled" />
+    <property name="HbAutocompleteMustaches" value="enabled" />
+    <property name="HbFormatter" value="enabled" />
+    <property name="HbCommenterLanguageId" value="HTML" />
+    <property name="ColorChooser.RecentColors" value="255-207-126-255,,,255-229-131-255,,,128-128-128-255,,,52-118-255-255,,,255-123-85-255,,,38-38-38-255,,,222-224-223-255,,,249-108-150-255,,,255-147-45-255,,,255-78-1-255,,,0-108-210-255,,,203-137-0-255,,,6-55-166-255,,,0-132-170-255,,,221-87-111-255,,,0-155-127-255,,,123-123-85-255,,,217-166-249-255,,,233-166-253-255,,,16-177-254-255" />
+    <property name="JSHintOptionsTreeView.MAIN_DIVIDER_PROPORTION" value="0.6423445" />
+    <property name="JSHintOptionsTreeView.RIGHT_DIVIDER_PROPORTION" value="0.4398148" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="20" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="0" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="1" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.56661993" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="export.settings.path" value="$USER_HOME$/Source/webstorm-settings/settings.jar" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="nodejs_interpreter_version" value="4.1.2" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v4.1.2/bin/node" />
+    <property name="nodejs_index_submodules" value="true" />
+    <property name="KEYMAP" value="find&#10;bookmar&#10;parameter info&#10;show in files&#10;active tool" />
+    <property name="PACKAGE_FILTER" value="angular&#10;bootstrap&#10;require.js&#10;files&#10;bower" />
+    <property name="debug.configuration.alternate.action.ad" value="true" />
+    <property name="AssociationsEditor.dividerProportion" value="0.3" />
+    <property name="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.splitter" value="0.3" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="js.rename.search.for.text.occurrences" value="true" />
+    <property name="FileStructurePopup.narrowDown" value="true" />
+    <property name="evlsprt.9.0" value="14a8fb6385d" />
+    <property name="evlsprt2.9.0" value="14a527d06eb" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.8028169" />
+    <property name="karma_support.karma_node_package_dir" value="$USER_HOME$/Code/WebstormProjects/AngularJS-Tutorial/angular-phonecat/node_modules/karma" />
+    <property name="karma_support.node_interpreter_path" value="/usr/bin/node" />
+    <property name="ShowDocumentationInToolWindow" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="map.external.resource.selected.tab" value="1" />
+    <property name="DocumentationAutoUpdateEnabled" value="true" />
+    <property name="javascript.grunt_toolwindow_splitter" value="0.2" />
+    <property name="bashsupport.weddingNotification.shown" value="0" />
+    <property name="bashsupport.weddingNotification.enabled" value="false" />
+    <property name="LAST_INJECTED_LANGUAGE" value="JavaScript" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="settings.code.style.selected.tab.JSON" value="Wrapping and Braces" />
+    <property name="settings.code.style.selected.tab.HTML" value="Other" />
+    <property name="MoveFile.OpenInEditor" value="false" />
+    <property name="fileTypeChangedCounter" value="20" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Wrapping and Braces" />
+    <property name="LayoutCode.rearrangeEntries" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="LayoutCode.rearrangeEntriesHTML" value="true" />
+    <property name="LayoutCode.rearrangeEntriesJavaScript" value="false" />
+    <property name="disable.forced.soft.wraps.notification" value="true" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
+    <property name="js.extract.function.declare.as.expression" value="false" />
+    <property name="javascript.bower.node-interpreter" value="$USER_HOME$/.nvm/versions/node/v0.12.5/bin/node" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="null.splitter" value="0.3" />
+    <property name="Vcs.Log.Text.Filter.History" value="0.4.1&#10;0.4&#10;login&#10;auth&#10;version patch" />
+    <property name="settings.code.style.selected.tab.CoffeeScript" value="Tabs and Indents" />
+    <property name="FileColorsEnabled" value="true" />
+    <property name="FileColorsForTabsEnabled" value="true" />
+    <property name="FileColorsForProjectViewEnabled" value="true" />
+    <property name="settings.code.style.selected.tab.CSS" value="Tabs and Indents" />
+    <property name="selected.color.option.type" value="DEFAULT_KEYWORD" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="show.indent.detected.notification" value="false" />
+    <property name="INSPECTION_FILTER_HISTORY" value="jsdoc&#10;spell&#10;&quot;New in 14&quot;" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="121" />
+    <property name="settings.code.style.selected.tab.XML" value="Tabs and Indents" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.47845304" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="Default" />
+    <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="true" />
+  </component>
+</application>

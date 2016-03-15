@@ -1,0 +1,16 @@
+<templateSet group="Zen CSS">
+  <template name="ov:h" value="overflow:hidden;" description="overflow:hidden;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="sep" value="/*** $BLOCK_NAME$ ***/&#10;$END$&#10;/******************************/" description="stick code blocks together" toReformat="true" toShortenFQNames="false">
+    <variable name="BLOCK_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS_PROPERTY_VALUE" value="true" />
+      <option name="CSS_DECLARATION_BLOCK" value="true" />
+      <option name="CSS_RULESET_LIST" value="true" />
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+</templateSet>
